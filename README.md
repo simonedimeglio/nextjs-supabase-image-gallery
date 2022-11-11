@@ -2,6 +2,8 @@
 
 Next.js application that displays a list of images fetched dynamically from supabase.
 
+<img width="1292" alt="Next Gallery" src="https://user-images.githubusercontent.com/78272736/201315779-7cb70065-f710-4ef0-8726-7865cf1298bf.png">
+
 ## Deploy your own
 
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
